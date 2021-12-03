@@ -7,6 +7,7 @@ public class ClasePrincipal {
 		//nuevo comentario
 		//Cambio 2
 		//Cambios rama Jaime
+		//Cambios de master que entrarán en conflicto
 
 	}
 
